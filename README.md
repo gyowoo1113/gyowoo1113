@@ -1,6 +1,4 @@
 #
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyowoo1113&count_private=true&show_icons=true&theme=dark)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube)](https://solved.ac/yereube)
 
 <!--
