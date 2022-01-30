@@ -1,4 +1,12 @@
-### Hi there 👋
+#
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyowoo1113&count_private=true&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyowoo1113&layout=compact&count_private=true)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube)](https://solved.ac/yereube)
+
+</div>
 
 <!--
 **gyowoo1113/gyowoo1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
