@@ -2,11 +2,6 @@
 
 <h1>Hi there👋</h1>
 <div align=center>
-
-<h3>🌟Prolem Solving🌟</h3>
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yereube">
-<br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube">
  
 <h3>📖Be Learning📖</h3>  
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white">
@@ -28,6 +23,11 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat-square&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/Pycharm-000000.svg?style=flat-square&logo=Pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/Jetbrains-000000.svg?style=flat-square&logo=Jetbrains&logoColor=white">
+ 
+<h3>🌟Prolem Solving🌟</h3>
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yereube">
+<br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube">
 </div>
 
 </div>
