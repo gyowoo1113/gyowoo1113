@@ -27,7 +27,10 @@
 <h3>🌟Prolem Solving🌟</h3>
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yereube">
 <br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube">
+</br>
+<h2></h2>
+
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube">
 </div>
 
 </div>
