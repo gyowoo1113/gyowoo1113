@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1>My Profile</h1>
+<h1>Hi there👋</h1>
 <div align=center>
 
 <h3>🌟Prolem Solving🌟</h3>
