@@ -1,9 +1,7 @@
 <div align = "center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&desc=I'm%20gyowoo1113&fontSize90&rotate=20&fontAlign=70&fontAlignY=30&descAlign=75&descAlignY=42">
-
 <div align=center>
-
-Prolem Solving
+<h3>Prolem Solving</h3>
 <br>
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yereube">
  
