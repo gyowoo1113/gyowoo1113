@@ -5,6 +5,7 @@
 
 <h3>🌟Prolem Solving🌟</h3>
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yereube">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube">
  
 <h3>📖Be Learning📖</h3>  
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white">
