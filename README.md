@@ -18,7 +18,7 @@
   
 ## 🌟Prolem Solving
 <div align=center>
-  <img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yereube)](https://solved.ac/yereube)">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=yereube">
 </div>
 
 
