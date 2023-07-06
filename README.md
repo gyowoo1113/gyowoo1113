@@ -18,7 +18,7 @@
   
 ## 🌟Prolem Solving
 <div align=center>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=yereube">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube">
 </div>
 
 
