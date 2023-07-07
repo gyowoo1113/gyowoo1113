@@ -4,6 +4,8 @@
 
  
 ## 🔧Tech 
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,css,html,js,java,spring,py,unity,unreal,linux,aws,lua" />
@@ -16,9 +18,12 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3ddC84.svg?style=flat-square&logo=Android%20Studio&logoColor=white">
 </div>
   
-## 🌟Prolem Solving
+## 🌟Info
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gyowoo1113&locale=ko)](https://git.io/streak-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube)](https://solved.ac/yereube)
+
 <div align=center>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube">
 </div>
 
 
