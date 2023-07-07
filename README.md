@@ -20,11 +20,8 @@
   
 ## 🌟Info
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gyowoo1113&locale=ko&card_width=470)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gyowoo1113&theme=ocean-gradient&locale=ko&card_width=470)](https://git.io/streak-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yereube)](https://solved.ac/yereube)
-
-<div align=center>
-</div>
 
 
 
