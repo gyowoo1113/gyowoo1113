@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<div align=right>
+<div align=center>
   <img src="https://img.shields.io/badge/DirectX12-499848.svg?style=flat-square&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/OpenGL-5586a4.svg?style=flat-square&logo=OpenGL&logoColor=white">
   <img src="https://img.shields.io/badge/Android%20Studio-3ddC84.svg?style=flat-square&logo=Android%20Studio&logoColor=white">
